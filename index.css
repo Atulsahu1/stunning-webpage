@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+body{box-sizing: border-box;font-family: 'Poppins', sans-serif;}
+#main{margin:0 auto;
+    background-color: white;
+   width:70% ;
+   height: 100vh; }
+   
+.first-div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.div-article{
+    display: flex;
+    align-items:center;
+    text-align: center;
+   
+
+}
+#first-logo{
+    margin-left: 20px;
+     width:50px;
+    height: 50px;}
+    
+
+#primary-btn{
+    background-color: #FFD6DA;
+    color: blue;
+border:none;
+border-radius: 30px;
+padding: 20px 40px ;
+margin-right:20px;
+font-size: 10px;
+    
+}
+
+.article{display: flex;
+    align-items: center;
+    color:gray;
+      margin: 50px;
+    font-weight: 600;}
+    .home{text-decoration:underline;padding-bottom: 20px;
+        color:black;}
+
+    #id{color:blue ;}
+    
+    .second-section{
+
+        display: flex;
+        justify-content: space-between;
+    }
+    #heading{
+        font-weight: 900;
+        font-size :70px ;
+    }
+    #para{font-size: 16px;padding-right: 20px;
+    color: gray;}
+    #landing{width: 500px;
+    height: 500px;}
+    #head-para{margin-left: 50px;}
+    #new-account{
+        padding: 20px 40px;
+        font-size 10px;
+        border: none;
+        background-color:#5243C0;
+        border-radius: 30px;
+        color: white;
+    }
+    #sec-btn{display: flex;
+        padding:30px;
+    align-items: center;}
+    
+    #data
+    {
+     text-align: center;   margin-top: 30px;padding-left: 20px;color:gray; 
+        background-color:white;}
+.tick{
+    background-color:#FCFCFC;
+   
+    border: none;
+    border-radius: 20px;
+    padding:0px;display: flex;
+align-items: center;}
+.tickk{
+    display:flex;
+    text-align: center;
+    background-color: white; 
+    align-items: center;
+   padding:0px;
+   border: none;
+border-radius: 20px;}
+.users
+{width:20px;padding: 10px 10px;padding-right: 50px;   padding-left: 50px; height:20px;
+}
+.text{color: black;font-size: 10px;
+font-weight: 500;}
+.btn-clr{ height: 10px;border:none;border-radius:10px;margin-left: 50px;;
+    width: 20px;}
+  
+    #b1{background-color: #FED7DA;} 
+     #b2{background-color: #FD6433;} 
+      #b3{background-color:#9ED096;}  
+      #b4{background-color: #FFE2A0;}
+    
+      #dot{background-color: #5243C0;
+    width: 10px;height: 10px;border: none;margin:0px;}
+
+#img1{margin-left: 50px;}
+#img2{margin-left: 43px;}
+#img3{margin-left: 55px;}
+#img4{margin-left: 70px; }
